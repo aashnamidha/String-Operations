@@ -9,3 +9,5 @@ CHANGE CASE: In this program we have changed all lower case letters to upper cas
 SPLIT STRING: In this program we have split the string from an inputed letter using simple if else statement. 
 
 ENCRYPTION/DECRYPTION: In this program the string is encrypted using a user given key. The encrypted string is then also decrypted by reversing the encryption operation.
+
+![GitHub Logo](/images/change case.jpg)
