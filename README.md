@@ -10,4 +10,6 @@ SPLIT STRING: In this program we have split the string from an inputed letter us
 
 ENCRYPTION/DECRYPTION: In this program the string is encrypted using a user given key. The encrypted string is then also decrypted by reversing the encryption operation.
 
-![GitHub Logo](/images/change case.jpg)
+![alt text](https://github.com/aashnamidha/String-Operations/blob/master/change%20case.jpg "Change Case")
+
+![alt text](https://github.com/aashnamidha/String-Operations/blob/master/encryption.jpg "Encryption/Decryption")
