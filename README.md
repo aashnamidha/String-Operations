@@ -13,3 +13,5 @@ ENCRYPTION/DECRYPTION: In this program the string is encrypted using a user give
 ![alt text](https://github.com/aashnamidha/String-Operations/blob/master/change%20case.jpg "Change Case")
 
 ![alt text](https://github.com/aashnamidha/String-Operations/blob/master/encryption.jpg "Encryption/Decryption")
+
+![alt text](https://github.com/aashnamidha/String-Operations/blob/master/split%20string.jpg "split string")
